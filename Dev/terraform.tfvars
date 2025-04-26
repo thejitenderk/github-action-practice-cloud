@@ -1,6 +1,6 @@
-rg_name = "rg1"
+rg_name = "rg2"
 
 rg_location = "East US"
 
-vnet_name = "vnet1"
+vnet_name = "vnet2"
 
